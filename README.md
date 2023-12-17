@@ -1,5 +1,5 @@
 ### A passionate coder who loves to code 🌈 
-- 🌱 I’m currently learning ReactJS and Tailwind CSS.
+- 🌱 I’m currently learning Typescript.
 - 📫 Must connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/hafizasad419) or [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/hafizasad419)
 
 
