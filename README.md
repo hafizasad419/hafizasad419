@@ -1,6 +1,6 @@
 
 <div style="display: flex; justify-content: center;">
-  <img src="/banner2.png" width="800px" />
+  <img src="/banner3.jpg" width="800px" />
 </div>
 
 About Me 🙋🏻‍♂️
