@@ -6,7 +6,7 @@
 About Me 🙋🏻‍♂️
 ------------------------
 
-I am Asad Riaz, a passionate Frontend Developer. My expertise centers around web development, particularly with Frontend libraries like React . I have successfully executed projects, such as developing a Universal Currency Converter and Online Pizza Order Platform. My technical proficiency extends to HTML, CSS, JavaScript, and libraries like React, Redux and React-Router-DOM. Armed with a Intermediate degree in Computer Science from Punjab College Quaid Campus, Islamabad and additional experience from the workshops at Presidential Initiative for Artificial Intelligence and Computing (PIAIC) . I am well-versed in different aspects of Frontend Website development.
+I am Asad Riaz, a passionate Frontend Developer. My expertise centers around web development, particularly with Frontend libraries like React . I have successfully executed projects, such as developing a Disney+ Frontend Clone and a Full Stack Blog Web-App. My technical proficiency extends to HTML, CSS, JavaScript, and libraries like React, Redux and React-Router-DOM. Armed with a Intermediate degree in Computer Science from Punjab College Quaid Campus, Islamabad and additional experience from the workshops at Presidential Initiative for Artificial Intelligence and Computing (PIAIC) . I am well-versed in different aspects of Frontend Website development.
 
 * 🌍  I'm based in Islamabad, Pakistan
 * 🤝  I'm open to collaborating on Your Next Project.
