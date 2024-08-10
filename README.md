@@ -19,7 +19,10 @@ About Me 🙋🏻‍♂️
  <br /> 
 😍 I love building web apps, SaaS solutions and AI powered applications for businesses. But the most interesting and challenging part is creation of site's logics. Indeed I'm very familiar with Python, JavaScript, React, React Native, NodeJS and Next JS.
 
-🙌🏻 I deliver high quality web development and mobile app development solutions for e-commerce, healthcare, finance, education, real estate, logistics, food delivery, and social media industries. My expertise in web development, combined with a strong focus on user experience, sets me apart as a developer who delivers extraordinary results.
+ <br /> 
+ 
+
+🙌🏻 I deliver high quality web development and mobile app development solutions for <strong>e-commerce, healthcare, finance, education, real estate, logistics, food delivery, and social media industries</strong> . My expertise in web development, combined with a strong focus on user experience, sets me apart as a developer who delivers extraordinary results.
 
 ✨ I believe in building strong client relationships through open communication and delivering exceptional results.
  <br /> 
@@ -27,19 +30,19 @@ About Me 🙋🏻‍♂️
 
 My technical expertise includes:
 <div style="display:block">
-<p>→ Web Development</p>  
+<strong>→ Web Development</strong>  
 <p>(JavaScript, Python, Node.js, Typescript, HTML, React, Next JS)</p>
 
  <br /> 
-<p>→ Mobile Development</p>  
+<strong>→ Mobile Development</strong>  
 <p>(Android, iOS, Cordova, Flutter, React-Native)</p>
  <br /> 
 
-<p>→ Web-Servers Setup</p>  
+<strong>→ Web-Servers Setup</strong>  
 <p>(Nginx, Apache)</p>
  <br /> 
 
-<p>→ Cloud Platforms</p>  
+<strong>→ Cloud Platforms</strong>  
 <p>(Azure, AWS and Google Cloud Platform)</p>
 </div>
  <br /> 
@@ -51,12 +54,14 @@ I have maintained, developed, and launched multiple projects from scratch, carry
 
  <br /> 
 
-Personal Qualities:
-→ Humble
-→ Responsible
-→ Reliable 
-→ Uses the latest versions and technologies
-→ Quick-Learner
+<strong>Personal Qualities:</strong>
+<p>→ High Integrity</p>  
+<p>→ Responsible</p>  
+<p>→ Excellent Communication Skills</p>  
+<p>→ Uses the latest versions and technologies</p>  
+
+<p>→ Timely and Efficient</p>
+
 
 Let's build something extraordinary together! 
 
@@ -71,7 +76,9 @@ Let's build something extraordinary together!
 
 
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
+<a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/ython" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
 </p>
 
 
