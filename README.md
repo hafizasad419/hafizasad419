@@ -14,6 +14,7 @@ About Me 🙋🏻‍♂️
   <p>✅ I like to communicate at every step, so let's keep in touch.</p>
 </div>
  <br /> 
+ <br /> 
 📍 I am a professional expert full stack developer mainly focused on backend and AI.
  <br /> 
  <br /> 
@@ -26,6 +27,7 @@ About Me 🙋🏻‍♂️
  
 
 🙌🏻 I deliver high quality web development and mobile app development solutions for <strong>e-commerce, healthcare, finance, education, real estate, logistics, food delivery, and social media industries</strong> . My expertise in web development, combined with a strong focus on user experience, sets me apart as a developer who delivers extraordinary results.
+<br /> 
 <br /> 
 
 ✨ I believe in building strong client relationships through open communication and delivering exceptional results.
