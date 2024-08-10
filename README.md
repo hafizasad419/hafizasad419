@@ -26,6 +26,7 @@ About Me 🙋🏻‍♂️
  
 
 🙌🏻 I deliver high quality web development and mobile app development solutions for <strong>e-commerce, healthcare, finance, education, real estate, logistics, food delivery, and social media industries</strong> . My expertise in web development, combined with a strong focus on user experience, sets me apart as a developer who delivers extraordinary results.
+<br /> 
 
 ✨ I believe in building strong client relationships through open communication and delivering exceptional results.
  <br /> 
