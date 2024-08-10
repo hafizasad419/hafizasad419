@@ -13,34 +13,43 @@ About Me 🙋🏻‍♂️
   <p>✅ Full project management from start to finish</p>
   <p>✅ I like to communicate at every step, so let's keep in touch.</p>
 </div>
-
-
+ <br /> 
 📍 I am a professional expert full stack developer mainly focused on backend and AI.
-
+ <br /> 
+ <br /> 
 😍 I love building web apps, SaaS solutions and AI powered applications for businesses. But the most interesting and challenging part is creation of site's logics. Indeed I'm very familiar with Python, JavaScript, React, React Native, NodeJS and Next JS.
 
 🙌🏻 I deliver high quality web development and mobile app development solutions for e-commerce, healthcare, finance, education, real estate, logistics, food delivery, and social media industries. My expertise in web development, combined with a strong focus on user experience, sets me apart as a developer who delivers extraordinary results.
 
 ✨ I believe in building strong client relationships through open communication and delivering exceptional results.
+ <br /> 
+ <br /> 
 
 My technical expertise includes:
 <div style="display:block">
 <p>→ Web Development</p>  
 <p>(JavaScript, Python, Node.js, Typescript, HTML, React, Next JS)</p>
 
+ <br /> 
 <p>→ Mobile Development</p>  
 <p>(Android, iOS, Cordova, Flutter, React-Native)</p>
+ <br /> 
 
 <p>→ Web-Servers Setup</p>  
 <p>(Nginx, Apache)</p>
+ <br /> 
 
 <p>→ Cloud Platforms</p>  
 <p>(Azure, AWS and Google Cloud Platform)</p>
 </div>
+ <br /> 
+ <br /> 
 
 I actively participate in industry conferences and webinars to ensure I'm at the forefront of technological advancements.
 
 I have maintained, developed, and launched multiple projects from scratch, carrying the development of their back-end and front-end codebases.
+
+ <br /> 
 
 Personal Qualities:
 → Humble
@@ -50,6 +59,9 @@ Personal Qualities:
 → Quick-Learner
 
 Let's build something extraordinary together! 
+
+ <br /> 
+
 <strong>Contact me to discuss your web or mobile project needs.</strong>
 
 
