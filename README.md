@@ -20,6 +20,7 @@ About Me 🙋🏻‍♂️
 😍 I love building web apps, SaaS solutions and AI powered applications for businesses. But the most interesting and challenging part is creation of site's logics. Indeed I'm very familiar with Python, JavaScript, React, React Native, NodeJS and Next JS.
 
  <br /> 
+ <br /> 
  
 
 🙌🏻 I deliver high quality web development and mobile app development solutions for <strong>e-commerce, healthcare, finance, education, real estate, logistics, food delivery, and social media industries</strong> . My expertise in web development, combined with a strong focus on user experience, sets me apart as a developer who delivers extraordinary results.
