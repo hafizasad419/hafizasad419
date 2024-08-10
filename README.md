@@ -15,25 +15,28 @@ About Me 🙋🏻‍♂️
 </div>
 
 
-I am a professional expert full stack developer mainly focused on backend and AI.
+📍 I am a professional expert full stack developer mainly focused on backend and AI.
 
- I love building web apps, SaaS solutions and AI powered applications for businesses. But the most interesting and challenging part is creation of site's logics. Indeed I'm very familiar with Python, JavaScript, React, React Native, NodeJS and Next JS.
+😍 I love building web apps, SaaS solutions and AI powered applications for businesses. But the most interesting and challenging part is creation of site's logics. Indeed I'm very familiar with Python, JavaScript, React, React Native, NodeJS and Next JS.
 
- I deliver high quality web development and mobile app development solutions for e-commerce, healthcare, finance, education, real estate, logistics, food delivery, and social media industries. My expertise in web development, combined with a strong focus on user experience, sets me apart as a developer who delivers extraordinary results.
+🙌🏻 I deliver high quality web development and mobile app development solutions for e-commerce, healthcare, finance, education, real estate, logistics, food delivery, and social media industries. My expertise in web development, combined with a strong focus on user experience, sets me apart as a developer who delivers extraordinary results.
 
-I believe in building strong client relationships through open communication and delivering exceptional results.
+✨ I believe in building strong client relationships through open communication and delivering exceptional results.
 
 My technical expertise includes:
-→ Web Development
- (JavaScript, Python, Node.js, Typescript, HTML, React, Next JS)
+<div style="display:block">
+<p>→ Web Development</p>  
+<p>(JavaScript, Python, Node.js, Typescript, HTML, React, Next JS)</p>
 
-→ Mobile Development (Android, iOS, Cordova, Flutter, React-Native)
+<p>→ Mobile Development</p>  
+<p>(Android, iOS, Cordova, Flutter, React-Native)</p>
 
-→ Web-Servers Setup
- (Nginx, Apache)
+<p>→ Web-Servers Setup</p>  
+<p>(Nginx, Apache)</p>
 
-→ Cloud Platforms 
-(Azure, AWS and Google Cloud Platform)
+<p>→ Cloud Platforms</p>  
+<p>(Azure, AWS and Google Cloud Platform)</p>
+</div>
 
 I actively participate in industry conferences and webinars to ensure I'm at the forefront of technological advancements.
 
@@ -47,7 +50,7 @@ Personal Qualities:
 → Quick-Learner
 
 Let's build something extraordinary together! 
-Contact me to discuss your web or mobile project needs.
+<strong>Contact me to discuss your web or mobile project needs.</strong>
 
 
 
