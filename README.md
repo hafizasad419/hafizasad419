@@ -5,12 +5,47 @@
 
 About Me 🙋🏻‍♂️
 ------------------------
+⭐ Top 1% of talent in Software Development 
+🥇 Microsoft Certified Developer
+✅ 2+ years of experience  
+✅ 30+ web apps delivered  
+✅ Full project management from start to finish 
+✅ I like to communicate at every step, so let's keep in touch.
 
-I am Asad Riaz, a passionate Frontend Developer. My expertise centers around web development, particularly with Frontend libraries like React . I have successfully executed projects, such as developing a Disney+ Frontend Clone and a Full Stack Blog Web-App. My technical proficiency extends to HTML, CSS, JavaScript, and libraries like React, Redux and React-Router-DOM. Armed with a Intermediate degree in Computer Science from Punjab College Quaid Campus, Islamabad and additional experience from the workshops at Presidential Initiative for Artificial Intelligence and Computing (PIAIC) . I am well-versed in different aspects of Frontend Website development.
+I am a professional expert full stack developer mainly focused on backend and AI.
 
-* 🌍  I'm based in Islamabad, Pakistan
-* 🤝  I'm open to collaborating on Your Next Project.
-* 😍  I create robust and serviceable frontend Websites.
+ I love building web apps, SaaS solutions and AI powered applications for businesses. But the most interesting and challenging part is creation of site's logics. Indeed I'm very familiar with Python, JavaScript, React, React Native, NodeJS and Next JS.
+
+ I deliver high quality web development and mobile app development solutions for e-commerce, healthcare, finance, education, real estate, logistics, food delivery, and social media industries. My expertise in web development, combined with a strong focus on user experience, sets me apart as a developer who delivers extraordinary results.
+
+I believe in building strong client relationships through open communication and delivering exceptional results.
+
+My technical expertise includes:
+→ Web Development
+ (JavaScript, Python, Node.js, Typescript, HTML, React, Next JS)
+
+→ Mobile Development (Android, iOS, Cordova, Flutter, React-Native)
+
+→ Web-Servers Setup
+ (Nginx, Apache)
+
+→ Cloud Platforms 
+(Azure, AWS and Google Cloud Platform)
+
+I actively participate in industry conferences and webinars to ensure I'm at the forefront of technological advancements.
+
+I have maintained, developed, and launched multiple projects from scratch, carrying the development of their back-end and front-end codebases.
+
+Personal Qualities:
+→ Humble
+→ Responsible
+→ Reliable 
+→ Uses the latest versions and technologies
+→ Quick-Learner
+
+Let's build something extraordinary together! 
+Contact me to discuss your web or mobile project needs.
+
 
 
 
