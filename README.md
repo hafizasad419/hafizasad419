@@ -5,14 +5,15 @@
 
 About Me 🙋🏻‍♂️
 ------------------------
-<div style="">
-⭐ Top 1% of talent in Software Development
-🥇 Microsoft Certified Developer
-✅ 2+ years of experience  
-✅ 30+ web apps delivered  
-✅ Full project management from start to finish 
-✅ I like to communicate at every step, so let's keep in touch.
+<div style="display: block;">
+  <p>⭐ Top 1% of talent in Software Development</p>
+  <p>🥇 Microsoft Certified Developer</p>
+  <p>✅ 2+ years of experience</p>
+  <p>✅ 30+ web apps delivered</p>
+  <p>✅ Full project management from start to finish</p>
+  <p>✅ I like to communicate at every step, so let's keep in touch.</p>
 </div>
+
 
 I am a professional expert full stack developer mainly focused on backend and AI.
 
