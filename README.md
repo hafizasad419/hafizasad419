@@ -32,6 +32,7 @@ About Me 🙋🏻‍♂️
 </a>
 
  <br /> 
+ <br /> 
 📍 I am a professional expert full stack developer mainly focused on backend and AI.
  <br /> 
  <br /> 
