@@ -35,9 +35,7 @@ About Me 🙋🏻‍♂️
  <br /> 
 📍 I am a professional expert full stack developer mainly focused on backend and AI.
  <br /> 
- <br /> 
- <br /> 
- <br /> 
+ <br />
 😍 I love building web apps, SaaS solutions and AI powered applications for businesses. But the most interesting and challenging part is creation of site's logics. Indeed I'm very familiar with Python, JavaScript, React, React Native, NodeJS and Next JS.
 
  <br /> 
