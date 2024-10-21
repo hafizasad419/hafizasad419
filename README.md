@@ -1,4 +1,5 @@
 
+
 <div style="display: flex; justify-content: center;">
   <img src="/banner4.jpg" width="800px" />
 </div>
@@ -13,7 +14,23 @@ About Me 🙋🏻‍♂️
   <p>✅ Full project management from start to finish</p>
   <p>✅ I like to communicate at every step, so let's keep in touch.</p>
 </div>
- <br /> 
+ <a href="https://www.upwork.com/freelancers/~01636165d98c3a5679" target="_blank" style="
+  display: inline-block;
+  background-color: #0077b5;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 25px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: bold;
+  cursor: pointer;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s, box-shadow 0.2s;
+">
+  Hire Me on Upwork
+</a>
+
  <br /> 
 📍 I am a professional expert full stack developer mainly focused on backend and AI.
  <br /> 
