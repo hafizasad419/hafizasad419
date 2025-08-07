@@ -2,6 +2,10 @@
   <img src="/banner-v3.jpg" width="800px" />
 </div>
 
+<div style="display: flex; justify-content: center;">
+  <img src="/banner-v3.jpg" width="800px" />
+</div>
+
 # **Startup MVPs and SaaS apps Developer | React, Typecript, Node.js, MongoDB, AWS** 
 
 ### **I build startup MVPs & SaaS apps for founders**
@@ -123,18 +127,16 @@ Whether you're validating a brand-new concept, chasing product-market fit, or le
   </a>
 
 <!-- Firebase -->
- <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
   <img src="https://skillicons.dev/icons?i=firebase" width="36" height="36" alt="Firebase" />
- </a>
-
- <a href="https://supabase.com/" target="_blank" rel="noreferrer">
-    <img src=" https://skillicons.dev/icons?i=supabase" width="36" height="36" alt="Supabase" />
-  </a>
-
-  <!-- Appwrite -->
-
+</a>
+<!-- Supabase -->
+<a href="https://supabase.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=supabase" width="36" height="36" alt="Supabase" />
+</a>
+<!-- Appwrite -->
 <a href="https://appwrite.io" target="_blank" rel="noreferrer">
-    <img src=" https://skillicons.dev/icons?i=appwrite" width="36" height="36" alt="appwrite" />
+    <img src="https://skillicons.dev/icons?i=appwrite" width="36" height="36" alt="appwrite" />
 </a>
 
 
