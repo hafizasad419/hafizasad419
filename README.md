@@ -2,11 +2,7 @@
   <img src="/banner-v3.jpg" width="800px" />
 </div>
 
-<div style="display: flex; justify-content: center;">
-  <img src="/banner-v3.jpg" width="800px" />
-</div>
-
-# **Startup MVPs and SaaS apps Developer | React, Typecript, Node.js, MongoDB, AWS** 
+# **Startup MVPs and SaaS apps Developer | React, Next.js, Typecript, Node.js, MongoDB, MySQL, AWS, Supabase, Postman, Cursor** 
 
 ### **I build startup MVPs & SaaS apps for founders**
 ---
